@@ -75,4 +75,4 @@ Decision Trees are a type of Supervised Machine Learning (that is you explain wh
 
 GitHub: https://github.com/EshanRS
 
-Linkedin: hhttps://www.linkedin.com/in/eshanrs/
+Linkedin: https://www.linkedin.com/in/eshanrs/
